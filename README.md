@@ -1,4 +1,4 @@
-# Household-Energy-Consumption-Tracker
+
 # ⚡ Household Energy Consumption Tracker
 
 > **Course:** ITS63304 Object Oriented Programming 
