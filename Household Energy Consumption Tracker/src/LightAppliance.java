@@ -1,8 +1,3 @@
-/**
- * Subclass for lighting appliances, inherits from Appliance parent class
- * Unique attribute: check if the light is LED type
- * Override energy calculation method: LED lights save energy with 0.6 discount factor
- */
 public class LightAppliance extends Appliance {
     // Unique attribute for lighting equipment
     private boolean isLED;
